@@ -7,7 +7,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="dbb72968-9069-4914-9c0c-20561d208f8f" name="Remote Host (1) (dbb72968-9069-4914-9c0c-20561d208f8f)" url="http:///">
-        <fileTransfer host="localhost" port="7776" accessType="SFTP">
+        <fileTransfer host="localhost" port="7776" rootFolder="/root" accessType="SFTP">
           <option name="port" value="7776" />
         </fileTransfer>
       </webServer>
