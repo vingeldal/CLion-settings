@@ -6,6 +6,11 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
+      <webServer id="dbb72968-9069-4914-9c0c-20561d208f8f" name="Remote Host (1) (dbb72968-9069-4914-9c0c-20561d208f8f)" url="http:///">
+        <fileTransfer host="localhost" port="2222" accessType="SFTP">
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
